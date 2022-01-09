@@ -2,7 +2,7 @@
 
 
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=FFCD11"/>
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=python&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=F7DF1E"/>
 
 
 
