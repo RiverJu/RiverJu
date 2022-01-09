@@ -14,10 +14,7 @@
 <h3>MY Gituhb Stats</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RiverJu&show_icons=true&include_all_commits=true&count_private=true"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiverJu&layout=compact&langs_count=7"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=RiverJu/>
-  
-  
-  
 </p>
 
