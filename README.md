@@ -13,8 +13,11 @@
 
 <h3>MY Gituhb Stats</h3>
 <p>
-  ![trophy](https://github-profile-trophy.vercel.app/?username=RiverJu)
-  ![RiverJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiverJu&show_icons=true&theme=radical)
-  ![RiverJu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiverJu&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RiverJu)
+  <img src="https://github-readme-stats.vercel.app/api?username=RiverJu&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiverJu&layout=compact&langs_count=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RiverJu/>
+  
+  
+  
 </p>
 
