@@ -14,7 +14,6 @@
 <h3>MY Gituhb Stats</h3>
 <p>
   ![trophy](https://github-profile-trophy.vercel.app/?username=RiverJu)
-
   ![RiverJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiverJu&show_icons=true&theme=radical)
   ![RiverJu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiverJu&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RiverJu)
 </p>
